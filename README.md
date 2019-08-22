@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hello,
+
+This is my first try in github. want to try javascript in servicenow.
+
+/K
